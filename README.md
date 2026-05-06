@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...automation at all levels
 - 🌱 I’m currently learning DevOps Engineering
 - 💞️ I’m looking to collaborate on Open Source Softwares
-- 📫 How to reach me ...+2348082185690, davedevo90s@gmail.com
+- 📫 How to reach me ... davedevo90s@gmail.com
 
 <!---
 thickthumb/thickthumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
